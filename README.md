@@ -1,2 +1,2 @@
 # E-PIX-Example-Configurations
-Example configurations for the E-PIX record linkage software from real-world research projects
+Example configurations for the record linkage software E-PIX from real-world research projects
