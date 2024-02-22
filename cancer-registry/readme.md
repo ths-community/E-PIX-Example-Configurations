@@ -26,7 +26,7 @@ Special strength: Reliable correct identification of multiple value fields
 
 ### Configuration
 
-![Configuration-File]()
+![Configuration-File](cancer-registry/matching-config-for-domain-CancerRegistry.xml)
 
 ### Contact
 Date: 2024-02-22
